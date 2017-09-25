@@ -1,0 +1,16 @@
+{
+  "name": "My First Cisco Spark Bot",
+  "description": "Cisco Spark Bot Web by NitishV",
+  "keywords": [
+    "cisco",
+    "spark",
+    "bot",
+    "go",
+    "sample",
+    "example"
+  ],
+  "image": "heroku/go:1.6",
+  "mount_dir": "src/github.com/NitishV/cisco-spark-bot",
+  "website": "http://github.com/heroku/go-getting-started",
+  "repository": "https://github.com/NitishV/cisco-spark-bot"
+}
