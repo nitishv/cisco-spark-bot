@@ -25,4 +25,5 @@ func getWebEngine() *gin.Engine {
 
 var routes = []Route{
 	Route{"GET", "/", Index},
+	Route{"POST", "/first/messages", FirstMessages},
 }
